@@ -1,5 +1,7 @@
 {
-  "name": "myApp",
-  "integrations": {},
+  "name": "portal-core",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

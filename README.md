@@ -1,1 +1,1 @@
-# module-template
+# ionic-sqlite-feature-module
